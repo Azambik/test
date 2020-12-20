@@ -1,29 +1,28 @@
 
-  #Group project Movie search site
-
-    This is a group project for UCF coding boot camp
-    
+  #test
+   it is a readmegenerator
+  
   ##Installation
   
-    upload to the internet
+    asdf
   
   
-    
+  
   ##Usage
   
-    use as you like
+    asdf
   
   
-    
+  
   ##Contribute
   
-    come help
+    asdf
   
   
-    
+  
   ##Testing instructions
   
-    test it 
+    asdf
   
   
   #created by
@@ -31,5 +30,8 @@
     
     contact me at: Andrewjzambik@yahoo.com
     My github : https://github.com/Azambik
+  ## License[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
     
-   ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+   
+
+
