@@ -1,8 +1,6 @@
-#Readme-generator
+asdf
 
- #Table of contents
-
-    [description](#description)
+  #Table of contents[Description](#description)
     
   [install](#installation)
   
@@ -14,42 +12,42 @@
   
     
   [Test](#testing)
-  
-    [created by](#createdby)
+  [Created by](#createdby)
   
 ##description <a name="description"></a>
-This project takes user prompted input and turns it into a readme file.
+asdf
 
   ##Installation <a name="installation"></a>
   
-    us npm install to install from package.json
+    asdfa
   
   
 
   ##Usage <a name="usage"></a>
   
-    follow prompts on screen to fill out form
+    asdf
   
   
 
   ##Contribute <a name="contribute"></a>
   
-    open
+    asdf
   
   
 
   ##Testing instructions <a name="testing"></a>
   
-    test by installing requierments and then runing index.js. follow prompts.
+    asdf
   
   
 #created by <a name="createdby"></a>
-Andrew Zambik
+asdf
     
- contact me at: Andrewjzambik@yahoo.com
- My github : https://github.com/Azambik
+ contact me at: asdfasdf
+ My github : https://github.com/asdf
 ## License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
    
 
 
+   
