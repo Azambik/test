@@ -1,4 +1,4 @@
-#test
+#boyo
   
   #Table of contents
   [Description](#description)
@@ -17,26 +17,26 @@
   [Created by](#createdby)
   
   ##description <a name="description"></a>
-  its a thing that dows a thing
+  boyo dont you know what it it
   
   ##Installation <a name="installation"></a>
-   get to it boyo
+    install it
   
   
   ##Usage <a name="usage"></a>
-  use it boyo
+    use it
   
   
   ##Contribute <a name="contribute"></a>
-  contribute boyo
+    contribute to it
   
   
   ##Testing instructions <a name="testing"></a>
-  test it boyo
+    test it
   
   #created by <a name="createdby"></a>
-  andrew babaganoosh
-  contact me at: andrewzambik@yaho.com
-  My github : https://github.com/Azambik
+  mr.wiggle McBoyo
+  contact me at: boyo@boyo.com
+  My github : https://github.com/boyo
   ## License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
