@@ -1,37 +1,37 @@
+#test
+this is a test
 
-  #test
-   it is a readmegenerator
-  
   ##Installation
   
     asdf
   
   
-  
+
   ##Usage
   
-    asdf
+    dfasd
   
   
-  
+
   ##Contribute
   
     asdf
   
   
-  
+
   ##Testing instructions
   
-    asdf
+    adf
   
   
-  #created by
-    Andrew Zambik
+#created by
+Andrew Zambik
     
-    contact me at: Andrewjzambik@yahoo.com
-    My github : https://github.com/Azambik
-  ## License[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+ contact me at: andrewjzambik@yahoo.com
+ My github : https://github.com/Azambik
+## License[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
     
    
+
 
 
