@@ -1,34 +1,36 @@
 
-  #test
+  #Group project Movie search site
 
-    this is a test of my readme generator
+    This is a group project for UCF coding boot camp
     
   ##Installation
   
-    us npm to get dependancys
+    upload to the internet
   
   
     
   ##Usage
   
-    input information as prompted
+    use as you like
   
   
     
   ##Contribute
   
-    what goes around comes around
+    come help
   
   
     
   ##Testing instructions
   
-    punch the keys
+    test it 
   
   
   #created by
     Andrew Zambik
     
     contact me at: Andrewjzambik@yahoo.com
-    My github : [Azambik](https://github.com/Azambik)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    My github : https://github.com/Azambik
+    
+    ## License
+      [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
