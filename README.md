@@ -1,4 +1,4 @@
-#ASDKLJASDHFLAKSJDHF
+#Readme-generator
   
   
   ------------------
@@ -23,33 +23,33 @@
   
   ##description <a name="description"></a>
   
-    ASDLKJFH
+    This project takes user prompted input and generates a well layed out readme file. 
 
   
   ##Installation <a name="installation"></a>
   
-    LKJASDHF
+    Install requierd files using npm intall
   
   
   ##Usage <a name="usage"></a>
   
-    L;KJASDHF
+    follow the prompts and input information as requested
   
   
   ##Contribute <a name="contribute"></a>
   
-    LAKSDJFH
+    class mates, teachers, TAs and friends.
   
   
   ##Testing instructions <a name="testing"></a>
   
-    ASLDKJFH
+    Type node index in the command console and follow the prompt. 
   
   #created by <a name="createdby"></a>
 
-    KLADSJHF
-    contact me at: LAKSDJFH
-    My github : https://github.com/LAKSDJFH
+    Andrew Zambik
+    contact me at: Andrewjzambik@yahoo.com
+    My github : https://github.com/Azambik
   
   ## License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
