@@ -23,33 +23,33 @@
   
   ##description <a name="description"></a>
   
-    This project takes user prompted input and generates a well layed out readme file. 
+    this is it
 
   
   ##Installation <a name="installation"></a>
   
-    Install requierd files using npm intall
+    asdf
   
   
   ##Usage <a name="usage"></a>
   
-    follow the prompts and input information as requested
+    asdf
   
   
   ##Contribute <a name="contribute"></a>
   
-    class mates, teachers, TAs and friends.
+    asdf
   
   
   ##Testing instructions <a name="testing"></a>
   
-    Type node index in the command console and follow the prompt. 
+    asdf
   
   #created by <a name="createdby"></a>
 
-    Andrew Zambik
-    contact me at: Andrewjzambik@yahoo.com
-   #My github : [https://github.com/Azambik](https://github.com/Azambik)
+    Andrew zambik
+    contact me at: andrewjzambik@yahoo.com
+  #My github : [https://github.com/azambik](https://github.com/azambik)
   
   ## License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
