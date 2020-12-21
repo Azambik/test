@@ -1,4 +1,4 @@
-#asdfjklhasdf
+#Readme-generator
   
   ------------------
   #Table of contents
@@ -20,30 +20,30 @@
   [Created by](#createdby)
   
   ##description <a name="description"></a>
-  asdkfljh
+  Readme-generator takes users input from a prompt to fill out a readme file and format it into a compleate file. 
   
   ##Installation <a name="installation"></a>
   
-    asdfasdfas
+    Use npm install to get requierd packages
   
   
   ##Usage <a name="usage"></a>
   
-    asdfakjhsgdf
+    In git type "node index" to run program. follow prompts and input information as requested.
   
   
   ##Contribute <a name="contribute"></a>
   
-    asdfkjhgasdfkljh
+    tanks to my class mates, TAs, teachers and frinds.
   
   
   ##Testing instructions <a name="testing"></a>
   
-    asdkjlfhasdf
+    If errors occur go back to install step. if not follow prompt and generate a test readme
   
   #created by <a name="createdby"></a>
-  asdfkjlh
-  contact me at: asdfkjlh
-  My github : https://github.com/asdkfljh
+  Andrew Zambik
+  contact me at: Andrewjzambik@yahoo.com
+  My github : https://github.com/Azambik
   ## License[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
